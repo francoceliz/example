@@ -1,1 +1,1 @@
-const verduras = ['naranja, manzana'];
+const frutas = ['naranja, manzana'];
