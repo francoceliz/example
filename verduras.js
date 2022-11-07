@@ -1,1 +1,1 @@
-const verduras = ['lechuga, morron,cebolla'];
+const verduras = ['lechuga, morron,cebolla,papa'];
